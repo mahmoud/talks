@@ -1,4 +1,5 @@
 talks
 =====
 
-various talks, presentations, and proposals
+papers just papers
+(various talks, presentations, and proposals)
