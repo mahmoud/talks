@@ -23,7 +23,7 @@ First differences you'll notice (syntax differences):
   arguments
 * No monkey-patching or in-place extension of builtin types like
   string
-* Python's module system is a little different (import instead of require)
+* Python's module system is a little (very) different (but also, import instead of require)
 * Python has list comprehensions, which are great
 * Python is whitespace significant, no "end"s
 
