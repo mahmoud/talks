@@ -65,6 +65,10 @@ particular events I appreciated since I started using Github in
   easy enough for me. I might just be a wuss.
 * I could see some sort of "Uses this" feature, but the space might
   already be a bit tight between star/watch/fork.
+* **Table of Contents in the Github-flavored Markdown**. One of the main
+  reasons we use ReStructured Text instead of markdown is because of
+  the Table of Contents (and overall slightly better linking).
+
 
 ## Personal musings
 
