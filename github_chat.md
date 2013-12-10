@@ -54,11 +54,26 @@ particular events I appreciated since I started using Github in
 * I know some teams can benefit from adding feature support (e.g.,
   graphs) for groups of repos (the Node infrastructure team at PayPal
   has dozens and dozens, for better or worse).
-* Being able to tag/reference other projects, like @user tagging, but
-  %project tagging or somesuch. Basically what I'd like to achieve is
+* Being able to tag/reference other projects, like @mentioned, but
+  %project somesuch. Basically what I'd like to achieve is
   being able to call out relationships like "for use with" or
   "requires" or "compare to" other projects on Github. "inspired by"? :P
 * Project analytics. For Enterprise at least.
+* Make documentation even easier to write. You can never make
+  documentation too easy to write. I don't know how to do this, at
+  all. readthedocs.org is cool, and Sphinx is ok, but it's still not
+  easy enough for me. I might just be a wuss.
+* I could see some sort of "Uses this" feature, but the space might
+  already be a bit tight between star/watch/fork.
+
+## Personal musings
+
+* I've sometimes wondered if anyone has a streak as long/longer than mine.
+* I think it'd be cool to discover projects with interesting
+  properties like, "lots of stars/watchers/commits, but no commits in
+  the last two years," such as simplegeo's oauth2 library or akdubya's
+  dustjs. "Seeking maintainer" There are probably too many interesting
+  combos to list here, though.
 
 ## Links
 
