@@ -81,6 +81,13 @@ particular events I appreciated since I started using Github in
   the last two years," such as simplegeo's oauth2 library or akdubya's
   dustjs. "Seeking maintainer" There are probably too many interesting
   combos to list here, though.
+* I've also wondered about per-user git usage styles, like stats
+  surround commit sizes, for instance. Might want to be careful about
+  going to deep down the quantified-self rabbithole. It can lead to
+  bad optimization for some and alienation of others. Maybe best if
+  these stats aren't front and center.
+* Do prolific tweeters have better git commit messages? and other fun
+  ways to promote better commit messages.
 
 ## Links
 
