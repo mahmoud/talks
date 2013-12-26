@@ -1,5 +1,4 @@
 talks
 =====
 
-papers just papers
-(various talks, presentations, and proposals)
+Moved to: [https://github.com/mahmoud/words](https://github.com/mahmoud/words)
